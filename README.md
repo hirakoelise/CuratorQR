@@ -4,7 +4,7 @@
 
 O CuratorQR é um software livre desenvolvido em Python para automatizar a auditoria e validação de documentos PDF. Ele extrai QR codes de catálogos, teses e documentos, e testa automaticamente a conectividade de cada link de destino, gerando um relatório detalhado e um gráfico estatístico visual.
 
-Este software integra o pacote **CMT (Cartografia do Movimento por meio de Tecnologias Digitais)** e foi desenvolvido como parte de pesquisa em Artes Cênicas na Universidade de Brasília (UnB).
+Este software integra o pacote **CMT (Cartografia do Movimento por meio de Tecnologias Digitais)** e foi desenvolvido durante o período de revisão da tese de doutorado da autora compondo como parte de pesquisa em Artes Cênicas na Universidade de Brasília (UnB).
 
  Funcionalidades
 - Arraste e solte arquivos PDF na interface.
